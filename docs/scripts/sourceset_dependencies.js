@@ -1,0 +1,1 @@
+sourceset_dependencies='{":snapscreen-android:dokkaHtml/androidTestRelease":[],":snapscreen-android:dokkaHtml/debug":[],":snapscreen-android:dokkaHtml/main":[],":snapscreen-android:dokkaHtml/release":[]}'
