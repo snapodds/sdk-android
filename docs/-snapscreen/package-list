@@ -62,9 +62,11 @@ $dokka.location:com.snapscreen.mobile.model.snap/SportEvent/setTvChannel/#com.sn
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventCompetitor///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-competitor/index.html
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventCompetitor/getName/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-competitor/get-name.html
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/index.html
+$dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry/getSnapscreenTimestampDelta/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/get-snapscreen-timestamp-delta.html
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry/getSportEvent/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/get-sport-event.html
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry/getTimestamp/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/get-timestamp.html
 $dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry/getTvChannel/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/get-tv-channel.html
+$dokka.location:com.snapscreen.mobile.model.snap/SportEventSnapResultEntry/setSnapscreenTimestampDelta/#kotlin.Long?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-sport-event-snap-result-entry/set-snapscreen-timestamp-delta.html
 $dokka.location:com.snapscreen.mobile.model.snap/TvChannel///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-tv-channel/index.html
 $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/getCode/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-tv-channel/get-code.html
 $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/getGrabbed/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-tv-channel/get-grabbed.html
@@ -80,17 +82,24 @@ $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/setLogoURL/#kotlin.St
 $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/setPosterUrl/#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-tv-channel/set-poster-url.html
 $dokka.location:com.snapscreen.mobile.model////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/index.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/index.html
-$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/CustomerConfiguration/#kotlin.Boolean?#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/-customer-configuration.html
-$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getGaTrackingId/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-ga-tracking-id.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/CustomerConfiguration/#kotlin.Boolean?#kotlin.String?#kotlin.Int?#kotlin.Boolean?#kotlin.Long?#kotlin.Long?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/-customer-configuration.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapEnabled/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-enabled.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapMaxTimeoutDuration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-max-timeout-duration.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapMinInterval/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-min-interval.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getSegmentWriteKey/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-segment-write-key.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getTvSearchUploadEnabled/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-tv-search-upload-enabled.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getTvSearchUploadQuality/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-tv-search-upload-quality.html
+$dokka.location:com.snapscreen.mobile.service////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.service/index.html
+$dokka.location:com.snapscreen.mobile.service/FeedbackService///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.service/-feedback-service/index.html
+$dokka.location:com.snapscreen.mobile.service/FeedbackService/uploadPreprocessedImage/#kotlin.String?#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#okhttp3.RequestBody/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.service/-feedback-service/upload-preprocessed-image.html
 $dokka.location:com.snapscreen.mobile.snap////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/SnapConfiguration/#kotlin.Boolean#kotlin.Double#kotlin.Double#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/-snap-configuration.html
-$dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/getAutoSnapInternalInSeconds/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/get-auto-snap-internal-in-seconds.html
+$dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/getAutoSnapIntervalInSeconds/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/get-auto-snap-interval-in-seconds.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/getAutoSnapTimeoutDuration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/get-auto-snap-timeout-duration.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/getAutomaticSnap/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/get-automatic-snap.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/getQuadrangleDetection/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/get-quadrangle-detection.html
-$dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/setAutoSnapInternalInSeconds/#kotlin.Double/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/set-auto-snap-internal-in-seconds.html
+$dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/setAutoSnapIntervalInSeconds/#kotlin.Double/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/set-auto-snap-interval-in-seconds.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/setAutoSnapTimeoutDuration/#kotlin.Double/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/set-auto-snap-timeout-duration.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/setAutomaticSnap/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/set-automatic-snap.html
 $dokka.location:com.snapscreen.mobile.snap/SnapConfiguration/setQuadrangleDetection/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-configuration/set-quadrangle-detection.html
@@ -105,6 +114,7 @@ $dokka.location:com.snapscreen.mobile.snap/SnapFragment///PointingToDeclaration/
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-create.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-create-view.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onDestroy/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-destroy.html
+$dokka.location:com.snapscreen.mobile.snap/SnapFragment/onPause/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-pause.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onRequestPermissionsResult/#kotlin.Int#kotlin.Array[kotlin.String?]#kotlin.IntArray/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-request-permissions-result.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onResume/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-resume.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-view-created.html
@@ -174,5 +184,6 @@ com.snapscreen.mobile
 com.snapscreen.mobile.model
 com.snapscreen.mobile.model.odds
 com.snapscreen.mobile.model.snap
+com.snapscreen.mobile.service
 com.snapscreen.mobile.snap
 
