@@ -18,16 +18,26 @@
         app:layout_constraintVertical_bias="0.5">
 
         <Button
-            android:id="@+id/snap_button"
+            android:id="@+id/snap_sports_media_button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Start Snapping"
+            android:text="Start Sports Media Mode"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:id="@+id/odds_button"
+            android:id="@+id/snap_sports_operator_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Start Sports Operator Mode"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/snap_sports_media_button" />
+
+        <Button
+            android:id="@+id/load_odds_button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
@@ -35,7 +45,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/snap_button" />
+            app:layout_constraintTop_toBottomOf="@id/snap_sports_operator_button" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

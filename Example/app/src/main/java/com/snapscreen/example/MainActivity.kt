@@ -8,18 +8,27 @@ import androidx.appcompat.app.AlertDialog
 import com.snapscreen.example.databinding.ActivityMainBinding
 import com.snapscreen.mobile.Snapscreen
 import com.snapscreen.mobile.model.snap.SportEventSnapResultEntry
+import com.snapscreen.mobile.snap.SnapActivity
+import com.snapscreen.mobile.snap.SnapActivityResultListener
+import com.snapscreen.mobile.snap.SnapConfiguration
+import com.snapscreen.mobile.snap.SnapFragment
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity(), SnapActivityResultListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.snapButton.setOnClickListener {
-            startActivityForResult(Intent(this, SnapActivity::class.java), 123)
+        binding.snapSportsMediaButton.setOnClickListener {
+            val intent = SnapActivity.intentForSportsMedia(this, SnapConfiguration());
+            startActivity(intent)
         }
-        binding.oddsButton.setOnClickListener {
+        binding.snapSportsOperatorButton.setOnClickListener {
+            val intent = SnapActivity.intentForSportsOperator(this, SnapConfiguration(), this);
+            startActivity(intent)
+        }
+        binding.loadOddsButton.setOnClickListener {
             loadOdds()
         }
     }
@@ -38,21 +47,28 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
+    override fun snapActivityDidSnapSportEvent(
+        activity: SnapActivity,
+        fragment: SnapFragment,
+        sportEvent: SportEventSnapResultEntry
+    ) {
+        activity.finish()
 
-        if (requestCode == 123 && resultCode == Activity.RESULT_OK) {
-            (data?.getSerializableExtra("sportEvent") as? SportEventSnapResultEntry)?.let {
-                AlertDialog.Builder(this, 0)
-                    .setTitle("Snapped Sport Event")
-                    .setMessage("Successfully snapped sport event with id ${it.sportEvent?.eventId ?: -1} on ${it.tvChannel?.name ?: "Unknown channel"}")
-                    .setPositiveButton("OK") { dialog, _ ->
-                        dialog.dismiss()
-                    }
-                    .setCancelable(true)
-                    .create()
-                    .show()
+        AlertDialog.Builder(this, 0)
+            .setTitle("Snapped Sport Event")
+            .setMessage("Snapped Sport Event with ID ${sportEvent.sportEvent?.eventId} on channel ${sportEvent.tvChannel?.name}")
+            .setNeutralButton("Show odds") { dialog, which ->
+                val intent = Intent(this, OddsResultsActivity::class.java).apply {
+                    putExtra("sportEvent", sportEvent.sportEvent!!)
+                    putExtra("tvChannel", sportEvent.tvChannel)
+                }
+                startActivity(intent)
             }
-        }
+            .setPositiveButton("OK") { _, _ ->
+            }
+            .setCancelable(false)
+            .create()
+            .show()
     }
+
 }
