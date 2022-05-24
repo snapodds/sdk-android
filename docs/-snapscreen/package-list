@@ -155,6 +155,7 @@ $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration///PointingToDecl
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/OddDisplayUIConfiguration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/-odd-display-u-i-configuration.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getBestOddsTitle/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-best-odds-title.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getErrorText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-error-text.html
+$dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getHidePoweredBySnapOddsBranding/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-hide-powered-by-snap-odds-branding.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getLoadingText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-loading-text.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getMoneyTitle/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-money-title.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getSpreadTitle/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-spread-title.html
@@ -163,6 +164,7 @@ $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getTotalTitle/#/
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/getTryAgainText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/get-try-again-text.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setBestOddsTitle/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-best-odds-title.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setErrorText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-error-text.html
+$dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setHidePoweredBySnapOddsBranding/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-hide-powered-by-snap-odds-branding.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setLoadingText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-loading-text.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setMoneyTitle/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-money-title.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setSpreadTitle/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-spread-title.html
@@ -171,6 +173,7 @@ $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setTotalTitle/#k
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setTryAgainText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-try-again-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/index.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getHideDefaultViewFinderAndQuadrangleDetection/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-hide-default-view-finder-and-quadrangle-detection.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getHidePoweredBySnapOddsBranding/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-hide-powered-by-snap-odds-branding.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorConnectionIssueText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-connection-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorGeneralText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoConnectionText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-no-connection-text.html
@@ -178,6 +181,7 @@ $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoResultsT
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapHintText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-hint-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapProgressText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-progress-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHideDefaultViewFinderAndQuadrangleDetection/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-hide-default-view-finder-and-quadrangle-detection.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHidePoweredBySnapOddsBranding/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-hide-powered-by-snap-odds-branding.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorConnectionIssueText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-connection-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorGeneralText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorNoConnectionText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-no-connection-text.html
