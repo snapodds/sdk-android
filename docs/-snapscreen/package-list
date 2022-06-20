@@ -178,6 +178,7 @@ $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorConnection
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorGeneralText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoConnectionText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-no-connection-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoResultsText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-no-results-text.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorTechnicalIssueText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-technical-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapHintText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-hint-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapProgressText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-progress-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHideDefaultViewFinderAndQuadrangleDetection/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-hide-default-view-finder-and-quadrangle-detection.html
@@ -186,6 +187,7 @@ $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorConnection
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorGeneralText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorNoConnectionText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-no-connection-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorNoResultsText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-no-results-text.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorTechnicalIssueText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-technical-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapHintText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-hint-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapProgressText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-progress-text.html
 $dokka.location:com.snapscreen.mobile/Snapscreen.Companion///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/-companion/index.html
