@@ -87,12 +87,16 @@ $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/setLogoURL/#kotlin.St
 $dokka.location:com.snapscreen.mobile.model.snap/TvChannel/setPosterUrl/#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model.snap/-tv-channel/set-poster-url.html
 $dokka.location:com.snapscreen.mobile.model////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/index.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/index.html
-$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/CustomerConfiguration/#kotlin.Boolean?#kotlin.String?#kotlin.Int?#kotlin.Boolean?#kotlin.Long?#kotlin.Long?#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/-customer-configuration.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/CustomerConfiguration/#kotlin.Boolean?#kotlin.String?#kotlin.Int?#kotlin.Boolean?#kotlin.Long?#kotlin.Long?#kotlin.Boolean?#kotlin.Long?#kotlin.Long?#kotlin.String?#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/-customer-configuration.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapEnabled/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-enabled.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapMaxTimeoutDuration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-max-timeout-duration.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getAutoSnapMinInterval/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-auto-snap-min-interval.html
-$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getName/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-name.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getCustomerName/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-customer-name.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getMultiSnapEnabled/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-multi-snap-enabled.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getMultiSnapInterval/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-multi-snap-interval.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getMultiSnapSuccessNumber/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-multi-snap-success-number.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getSegmentWriteKey/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-segment-write-key.html
+$dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getTutorialUrl/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-tutorial-url.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getTvSearchUploadEnabled/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-tv-search-upload-enabled.html
 $dokka.location:com.snapscreen.mobile.model/CustomerConfiguration/getTvSearchUploadQuality/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.model/-customer-configuration/get-tv-search-upload-quality.html
 $dokka.location:com.snapscreen.mobile.odds////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.odds/index.html
@@ -114,6 +118,7 @@ $dokka.location:com.snapscreen.mobile.snap/SnapActivity/SnapActivity/#/PointingT
 $dokka.location:com.snapscreen.mobile.snap/SnapActivity/onBackPressed/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity/on-back-pressed.html
 $dokka.location:com.snapscreen.mobile.snap/SnapActivity/onSupportNavigateUp/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity/on-support-navigate-up.html
 $dokka.location:com.snapscreen.mobile.snap/SnapActivity/snapFragmentDidSnapSportEvent/#com.snapscreen.mobile.snap.SnapFragment#com.snapscreen.mobile.model.snap.SportEventSnapResultEntry/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity/snap-fragment-did-snap-sport-event.html
+$dokka.location:com.snapscreen.mobile.snap/SnapActivity/snapFragmentShouldShowHelp/#com.snapscreen.mobile.snap.SnapFragment#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity/snap-fragment-should-show-help.html
 $dokka.location:com.snapscreen.mobile.snap/SnapActivityInitializationListener///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity-initialization-listener/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapActivityInitializationListener/onSnapActivityCreate/#com.snapscreen.mobile.snap.SnapActivity/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity-initialization-listener/on-snap-activity-create.html
 $dokka.location:com.snapscreen.mobile.snap/SnapActivityResultListener///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-activity-result-listener/index.html
@@ -134,18 +139,30 @@ $dokka.location:com.snapscreen.mobile.snap/SnapFragment.CameraPermissionState.GR
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment.CameraPermissionState.REQUESTING///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/-camera-permission-state/-r-e-q-u-e-s-t-i-n-g/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment.CameraPermissionState///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/-camera-permission-state/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment.Companion///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/-companion/index.html
-$dokka.location:com.snapscreen.mobile.snap/SnapFragment.Companion/newInstance/#com.snapscreen.mobile.snap.SnapConfiguration#com.snapscreen.mobile.snap.SnapFragmentResultListener/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/-companion/new-instance.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/continueSnapping/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/continue-snapping.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-create.html
+$dokka.location:com.snapscreen.mobile.snap/SnapFragment/onCreateOptionsMenu/#android.view.Menu#android.view.MenuInflater/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-create-options-menu.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-create-view.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onDestroy/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-destroy.html
+$dokka.location:com.snapscreen.mobile.snap/SnapFragment/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-options-item-selected.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onPause/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-pause.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onRequestPermissionsResult/#kotlin.Int#kotlin.Array[kotlin.String?]#kotlin.IntArray/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-request-permissions-result.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onResume/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-resume.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment/on-view-created.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragmentResultListener///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment-result-listener/index.html
 $dokka.location:com.snapscreen.mobile.snap/SnapFragmentResultListener/snapFragmentDidSnapSportEvent/#com.snapscreen.mobile.snap.SnapFragment#com.snapscreen.mobile.model.snap.SportEventSnapResultEntry/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment-result-listener/snap-fragment-did-snap-sport-event.html
+$dokka.location:com.snapscreen.mobile.snap/SnapFragmentResultListener/snapFragmentShouldShowHelp/#com.snapscreen.mobile.snap.SnapFragment#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-fragment-result-listener/snap-fragment-should-show-help.html
+$dokka.location:com.snapscreen.mobile.snap/SnapHelpFragment.Companion///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-help-fragment/-companion/index.html
+$dokka.location:com.snapscreen.mobile.snap/SnapHelpFragment///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-help-fragment/index.html
+$dokka.location:com.snapscreen.mobile.snap/SnapHelpFragment/SnapHelpFragment/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-help-fragment/-snap-help-fragment.html
+$dokka.location:com.snapscreen.mobile.snap/SnapHelpFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-help-fragment/on-create-view.html
+$dokka.location:com.snapscreen.mobile.snap/SnapHelpFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.snap/-snap-help-fragment/on-view-created.html
+$dokka.location:com.snapscreen.mobile.util////PointingToDeclaration/-snapscreen/com.snapscreen.mobile.util/index.html
+$dokka.location:com.snapscreen.mobile.util/SnapscreenBackendUtil.Companion///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.util/-snapscreen-backend-util/-companion/index.html
+$dokka.location:com.snapscreen.mobile.util/SnapscreenBackendUtil.Companion/safeBackendCall/#kotlin.coroutines.SuspendFunction1[kotlinx.coroutines.CoroutineScope,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.util/-snapscreen-backend-util/-companion/safe-backend-call.html
+$dokka.location:com.snapscreen.mobile.util/SnapscreenBackendUtil///PointingToDeclaration/-snapscreen/com.snapscreen.mobile.util/-snapscreen-backend-util/index.html
+$dokka.location:com.snapscreen.mobile.util/SnapscreenBackendUtil/SnapscreenBackendUtil/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile.util/-snapscreen-backend-util/-snapscreen-backend-util.html
 $dokka.location:com.snapscreen.mobile////PointingToDeclaration/-snapscreen/com.snapscreen.mobile/index.html
 $dokka.location:com.snapscreen.mobile/Environment.PRODUCTION///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-environment/-p-r-o-d-u-c-t-i-o-n/index.html
 $dokka.location:com.snapscreen.mobile/Environment.TEST///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-environment/-t-e-s-t/index.html
@@ -172,8 +189,10 @@ $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setTitle/#kotlin
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setTotalTitle/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-total-title.html
 $dokka.location:com.snapscreen.mobile/OddDisplayUIConfiguration/setTryAgainText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-odd-display-u-i-configuration/set-try-again-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/index.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getHelpTitle/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-help-title.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getHideDefaultViewFinderAndQuadrangleDetection/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-hide-default-view-finder-and-quadrangle-detection.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getHidePoweredBySnapOddsBranding/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-hide-powered-by-snap-odds-branding.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getShowHelpButtonText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-show-help-button-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorConnectionIssueText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-connection-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorGeneralText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoConnectionText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-no-connection-text.html
@@ -181,8 +200,11 @@ $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorNoResultsT
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapErrorTechnicalIssueText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-error-technical-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapHintText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-hint-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapProgressText/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-progress-text.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/getSnapTitle/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/get-snap-title.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHelpTitle/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-help-title.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHideDefaultViewFinderAndQuadrangleDetection/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-hide-default-view-finder-and-quadrangle-detection.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setHidePoweredBySnapOddsBranding/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-hide-powered-by-snap-odds-branding.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setShowHelpButtonText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-show-help-button-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorConnectionIssueText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-connection-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorGeneralText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-general-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorNoConnectionText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-no-connection-text.html
@@ -190,6 +212,7 @@ $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorNoResultsT
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapErrorTechnicalIssueText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-error-technical-issue-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapHintText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-hint-text.html
 $dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapProgressText/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-progress-text.html
+$dokka.location:com.snapscreen.mobile/SnapUIConfiguration/setSnapTitle/#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snap-u-i-configuration/set-snap-title.html
 $dokka.location:com.snapscreen.mobile/Snapscreen.Companion///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/-companion/index.html
 $dokka.location:com.snapscreen.mobile/Snapscreen.Companion/getInstance/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/-companion/get-instance.html
 $dokka.location:com.snapscreen.mobile/Snapscreen.Companion/setInstance/#com.snapscreen.mobile.Snapscreen?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/-companion/set-instance.html
@@ -203,6 +226,7 @@ $dokka.location:com.snapscreen.mobile/Snapscreen/getContext/#/PointingToDeclarat
 $dokka.location:com.snapscreen.mobile/Snapscreen/getCountry/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-country.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/getCurrentTimeStamp/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-current-time-stamp.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/getFontConfiguration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-font-configuration.html
+$dokka.location:com.snapscreen.mobile/Snapscreen/getLiveEventsStatusChangeListener/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-live-events-status-change-listener.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/getOddsForSportEvent/#kotlin.Long#kotlin.Function1[com.snapscreen.mobile.model.odds.SnapOddsResult?,kotlin.Unit]/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-odds-for-sport-event.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/getOddsUiConfiguration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-odds-ui-configuration.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/getSnapUiConfiguration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/get-snap-ui-configuration.html
@@ -214,12 +238,15 @@ $dokka.location:com.snapscreen.mobile/Snapscreen/setColorConfiguration/#com.snap
 $dokka.location:com.snapscreen.mobile/Snapscreen/setContext/#android.content.Context/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-context.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/setCountry/#kotlin.String/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-country.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/setFontConfiguration/#com.snapscreen.mobile.UIFontConfiguration/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-font-configuration.html
+$dokka.location:com.snapscreen.mobile/Snapscreen/setLiveEventsStatusChangeListener/#com.snapscreen.mobile.SnapscreenLiveEventsStatusChangeListener?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-live-events-status-change-listener.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/setOddsUiConfiguration/#com.snapscreen.mobile.OddDisplayUIConfiguration/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-odds-ui-configuration.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/setSnapUiConfiguration/#com.snapscreen.mobile.SnapUIConfiguration/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-snap-ui-configuration.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/setUsState/#kotlin.String?/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/set-us-state.html
 $dokka.location:com.snapscreen.mobile/Snapscreen/unregisterAuthenticationListener/#com.snapscreen.mobile.SnapscreenAuthenticationListener/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen/unregister-authentication-listener.html
 $dokka.location:com.snapscreen.mobile/SnapscreenAuthenticationListener///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen-authentication-listener/index.html
 $dokka.location:com.snapscreen.mobile/SnapscreenAuthenticationListener/snapscreenDidUpdateAuthentication/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen-authentication-listener/snapscreen-did-update-authentication.html
+$dokka.location:com.snapscreen.mobile/SnapscreenLiveEventsStatusChangeListener///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen-live-events-status-change-listener/index.html
+$dokka.location:com.snapscreen.mobile/SnapscreenLiveEventsStatusChangeListener/snapscreenLiveEventsStatusDidChange/#kotlin.Boolean/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-snapscreen-live-events-status-change-listener/snapscreen-live-events-status-did-change.html
 $dokka.location:com.snapscreen.mobile/UIColorConfiguration///PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-u-i-color-configuration/index.html
 $dokka.location:com.snapscreen.mobile/UIColorConfiguration/UIColorConfiguration/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-u-i-color-configuration/-u-i-color-configuration.html
 $dokka.location:com.snapscreen.mobile/UIColorConfiguration/getBackground/#/PointingToDeclaration/-snapscreen/com.snapscreen.mobile/-u-i-color-configuration/get-background.html
@@ -275,4 +302,5 @@ com.snapscreen.mobile.model.snap
 com.snapscreen.mobile.odds
 com.snapscreen.mobile.service
 com.snapscreen.mobile.snap
+com.snapscreen.mobile.util
 
